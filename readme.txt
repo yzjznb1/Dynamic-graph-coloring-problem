@@ -6,5 +6,3 @@ Please use the following command to run the executable file:
 
 Output Results
 The results will be saved in the output1.txt file.
-
-https://github.com/yzjznb1/Dynamic-graph-coloring-problem
